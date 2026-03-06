@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the complete computational pipeline, custom scripts, and Jupyter notebooks used for the manuscript: DECODING CELL-CELL COMMUNICATION PATTERNS IN HEPATOCELLULAR CARCINOMA ANDINTRAHEPATIC CHOLANGIOCARCINOMA.
+This repository contains the complete computational pipeline, custom scripts, and Jupyter notebooks used for the manuscript: **DECODING CELL-CELL COMMUNICATION PATTERNS IN HEPATOCELLULAR CARCINOMA ANDINTRAHEPATIC CHOLANGIOCARCINOMA**.
 
 ## 📖 Overview
 Hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (iCCA) exhibit highly heterogeneous tumor microenvironments. In this study, we applied a systematic framework integrating **LIANA** (consensus ligand-receptor interactions) and **Tensor-cell2cell** (non-negative tensor factorization) on single-cell RNA sequencing (scRNA-seq) data. 
