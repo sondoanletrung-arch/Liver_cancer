@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains the complete computational pipeline, custom scripts, and Jupyter notebooks used for the manuscript: **DECODING CELL-CELL COMMUNICATION PATTERNS IN HEPATOCELLULAR CARCINOMA ANDINTRAHEPATIC CHOLANGIOCARCINOMA**.
+This repository contains the complete computational pipeline, custom scripts, and Jupyter notebooks used for the manuscript: **"Decoding Cell-Cell Communication Patterns in Hepatocellular Carcinoma and Intrahepatic Cholangiocarcinoma"**.
 
 ## 📖 Overview
 Hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (iCCA) exhibit highly heterogeneous tumor microenvironments. In this study, we applied a systematic framework integrating **LIANA** (consensus ligand-receptor interactions) and **Tensor-cell2cell** (non-negative tensor factorization) on single-cell RNA sequencing (scRNA-seq) data. 
@@ -28,8 +28,8 @@ We highly recommend using `conda` to create an isolated virtual environment befo
 
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/](https://github.com/)[Tên-Tài-Khoản-Của-Bạn]/[Tên-Repo].git
-cd [Tên-Repo]
+git clone https://github.com/sondoanletrung-arch/Liver_cancer.git
+cd Liver_cancer
 
 # 2. Create and activate a conda environment
 conda create -n ccc_tensor_env python=3.12.12
