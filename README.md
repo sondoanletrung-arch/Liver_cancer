@@ -36,7 +36,7 @@ conda create -n ccc_tensor_env python=3.12.12
 conda activate ccc_tensor_env
 
 # 3. Install required packages
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 ## 📊 Data Availability & Execution Guide
 The raw scRNA-seq data from 31 HCC and 12 iCCA samples utilized in this study are publicly available in the Gene Expression Omnibus (GEO) under the accession number GSE151530.
