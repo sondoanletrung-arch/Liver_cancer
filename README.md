@@ -37,8 +37,9 @@ conda activate ccc_tensor_env
 
 # 3. Install required packages
 pip install -r requirements.txt
+```
 
-📊 Data Availability & Execution Guide
+## 📊 Data Availability & Execution Guide
 The raw scRNA-seq data from 31 HCC and 12 iCCA samples utilized in this study are publicly available in the Gene Expression Omnibus (GEO) under the accession number GSE151530.
 
 To run the pipeline:
@@ -49,7 +50,7 @@ Place them into the ./data/GSE151530/ directory.
 
 Execute the notebooks sequentially from 01 to 06. The pipeline will automatically generate the processed .h5ad objects, CSV tables, and all manuscript figures in the ./results/ directory.
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 We extend our deepest gratitude to the developers of the open-source systems biology tools that made this analysis possible. A special thanks goes to the authors of the comprehensive Cell-Cell Communication Protocols (ccc-protocols), from which the foundation of our Tensor-cell2cell computational pipeline was adapted.
 
 Specifically, we acknowledge:
